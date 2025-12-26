@@ -6,9 +6,9 @@ This project classifies music audio files into 10 different genres using a Convo
 The model learns patterns from audio frequency features.
 
 ## Technologies Used
-Python
-TensorFlow / Keras
-Librosa
-NumPy
-Matplotlib
+Python,
+TensorFlow / Keras,
+Librosa,
+NumPy,
+Matplotlib,
 Scikit-learn
